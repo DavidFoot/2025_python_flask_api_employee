@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf1cacf-7250-4de4-a677-8ed82260d2aa" name="Changes" comment="init Python Folder project">
-      <change afterPath="$PROJECT_DIR$/FlaskApi/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskApi/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskApi/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskApi/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
